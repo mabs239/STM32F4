@@ -44,6 +44,9 @@
 /* Exported types ------------------------------------------------------------*/
 /* Exported constants --------------------------------------------------------*/
 
+/* Pasted out from "Select the media" because uncomment it wont playback */
+#define MEDIA_IntFLASH /* Wave file stored in internal flash */
+
 /* Select the media where the Wave file is stored */
 #if !defined (MEDIA_IntFLASH) && !defined (MEDIA_USB_KEY) 
  //#define MEDIA_IntFLASH /* Wave file stored in internal flash */
