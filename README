@@ -2,3 +2,4 @@ STM32F4 Project Repository
 Code development on a Linux platform using texane/st-link (from github). 
 Experimental code: just playing with the STM32F4.
 
+Audio PlayBack and Record Example in sample projects is very useful. It makes the STM32F4 Discovery a sound card to the computer and also record the audio data to USB drive attached to its data port. By default it uses the onboard microphone.
